@@ -16,7 +16,7 @@
 
 ## Решение задание 1
 
-    ![Alt text](image.png)
+![Alt text](image.png)
 
 # Задание 2
 
